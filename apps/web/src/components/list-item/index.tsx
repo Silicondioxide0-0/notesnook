@@ -232,7 +232,7 @@ function ListItem<TItem extends Item, TContext>(
             whiteSpace: "pre-wrap",
             position: "relative",
             display: "-webkit-box",
-            WebkitLineClamp: 4,
+            WebkitLineClamp: 8,
             WebkitBoxOrient: "vertical"
           }}
         >
